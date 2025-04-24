@@ -50,6 +50,10 @@ python phone.py
 # Demo
 Ensure both your mobile device and laptop are connected to the same Wi-Fi network. You can move freely within range and still detect plastic in real time. For example, plastic objects in the hall were successfully detected even when the laptop running the model remained in the living room. 
 
+![Phone Camera](https://github.com/github4568/Real-time-Plastic-Detector/blob/main/Phone%20camera.jpg)
+
+![Laptop Window](https://github.com/github4568/Real-time-Plastic-Detector/blob/main/Laptop%20Window.png)
+
 
 
 
