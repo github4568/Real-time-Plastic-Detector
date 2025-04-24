@@ -55,6 +55,12 @@ Ensure both your mobile device and laptop are connected to the same Wi-Fi networ
 ![Laptop Window](https://github.com/github4568/Real-time-Plastic-Detector/blob/main/Laptop%20Window.png)
 
 
+# Contributors:
+- Shriya Deshpande
+- https://github.com/github4568 
+
+
+
 
 
 
